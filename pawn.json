@@ -7,7 +7,7 @@
         "sampctl/samp-stdlib",
         "Southclaws/samp-logger",
         "pawn-lang/YSI-Includes",
-        "ScavengeSurvive/item"
+        "Dystopian-Roleplay/item"
     ],
-    "dev_dependencies": ["ScavengeSurvive/test-boilerplate"]
+    "dev_dependencies": ["Dystopian-Roleplay/test-boilerplate"]
 }
