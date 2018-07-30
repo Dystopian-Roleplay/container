@@ -7,7 +7,7 @@
         "sampctl/samp-stdlib",
         "Southclaws/samp-logger",
         "pawn-lang/YSI-Includes",
-        "Dystopian-Roleplay/item"
+        "Dystopian-Roleplay/item@2.0.0"
     ],
     "dev_dependencies": ["Dystopian-Roleplay/test-boilerplate"]
 }
